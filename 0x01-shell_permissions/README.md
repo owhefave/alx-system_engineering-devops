@@ -7,3 +7,4 @@
 | 3.  | 2-groups    | This script allows you to prints all the groups the current user is part of     |
 | 4.  | 3-new_owner | This script allows you to change owner                                          |
 | 5.  |  4-empty    | This script allows you to create an empty file                                  |
+| 6.  |  5-execute  | This script allows you to add an execuse permission to a file                   |
