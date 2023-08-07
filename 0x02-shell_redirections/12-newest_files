@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt -r | sort
+ls -lt --time=atime | sort
