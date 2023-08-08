@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --time=atime | tail -n +2 | head -n 10 | cut -d ' ' -f 11-
+ls -t | head -n 10
